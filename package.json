@@ -1,0 +1,26 @@
+{
+  "name": "mobiplexus",
+  "version": "1.0.0",
+  "description": "A Digital Superplexus Controlled Via Phone Interface -- For One to 100 Players",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socketio": "^1.0.0",
+    "three": "^0.127.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augustluhrs/Mobiplexus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/augustluhrs/Mobiplexus/issues"
+  },
+  "homepage": "https://github.com/augustluhrs/Mobiplexus#readme"
+}
